@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-X-Rates is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://x-rates.com/
+X-Rates provides free foreign exchange rates and tools, including a currency conversion calculator, historical rates, graphs, and a monthly exchange rate average. The service offers up-to-date exchange data for a wide range of currencies, supporting developers and travelers with reliable API access to global currency information.
+
+**Areas:** Company · Finance · Currency · ExchangeRates · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://x-rates.com/)
+- [Terms of service](https://x-rates.com/terms/)
+- [Privacy policy](https://x-rates.com/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/xrates/](https://apis.io/providers/xrates/).
